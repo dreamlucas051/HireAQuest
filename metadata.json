@@ -1,0 +1,6 @@
+{
+  "name": "Hireaquest",
+  "description": "An app like Uber for walking tasks. Write a task, someone walks to do it.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
